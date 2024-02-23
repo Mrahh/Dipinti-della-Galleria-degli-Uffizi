@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/dataset">
+        <file>dipinti_uffizi.csv</file>
+    </qresource>
+</RCC>
