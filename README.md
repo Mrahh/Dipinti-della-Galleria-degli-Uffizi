@@ -9,3 +9,4 @@ Vengono inoltre implementate le seguenti funzionalità:
 - Un grafico che riporti la percentuale di dipinti per ciascuna Scuola ed un
 altro grafico in cui venga riportato il numero di dipinti rispetto al campo
 Data.
+Qt Creator Version: 4.15.0
