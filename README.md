@@ -10,3 +10,10 @@ Vengono inoltre implementate le seguenti funzionalità:
 altro grafico in cui venga riportato il numero di dipinti rispetto al campo
 Data.
 Qt Creator Version: 4.15.0
+
+<br>
+<img src="img/Immagine 2024-03-05 211617.jpg" alt="drawing" width="51%"/>
+<img src="img/Immagine 2024-03-05 211723.jpg" alt="drawing" width="51%"/>
+<img src="img/Immagine 2024-03-05 211913.jpg" alt="drawing" width="51%"/>
+<img src="img/Immagine 2024-03-05 212044.jpg" alt="drawing" width="51%"/>
+<img src="img/Immagine 2024-03-05 212120.jpg" alt="drawing" width="51%"/>
